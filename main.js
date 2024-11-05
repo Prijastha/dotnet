@@ -49,7 +49,7 @@ ScrollReveal().reveal('.home-contact p, .about-content', { origin: 'right' });
 
 // TYPED JS
 const typed = new Typed('.multiple-text',{
-    strings:['Frontend Developer','Web Designer','UI/UX Designer'],
+    strings:['Frontend Developer','UI/UX Designer'],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay:1000,
